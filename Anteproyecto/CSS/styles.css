@@ -251,12 +251,12 @@ p {
 /* Testimonos */
 #testimonials {
   height: 600px;
-  background: url('../Anteproyecto/Imagenes/fondo1.jpg') no-repeat center center/cover;
+  background: url('../Anteproyecto/imagenes/fondo1.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 #testimonials1 {
   height: auto;
-  background: url('../Anteproyecto/Imagenes/fondo.jpg') no-repeat center center/cover;
+  background: url('../Anteproyecto/imagenes/fondo.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
